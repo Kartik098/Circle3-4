@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #ff00f2;
+}
+
+.one{
+    width: 0px;
+    height: 0px;
+    border: 150px;
+    border-radius: 50%;
+    border-color: black;
+    border-style: solid;
+    border-bottom-color: #d32144;
+    border-right-color: blueviolet;
+    border-top-color: #51B5A9;
+    border-left-color: #F7F3D7;
+    margin-left: 40%;
+    margin-top: 15%;
+}
+p{
+    text-align: center;
+    margin-top: 100px;
+}
