@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: #ff00f2;
+    background-color: #E3516E;
 }
 
 .one{
@@ -11,8 +11,8 @@
     border-radius: 50%;
     border-color: black;
     border-style: solid;
-    border-bottom-color: #d32144;
-    border-right-color: blueviolet;
+      border-bottom-color: #E3516E;
+    border-right-color: #FADE8B;
     border-top-color: #51B5A9;
     border-left-color: #F7F3D7;
     margin-left: 40%;
